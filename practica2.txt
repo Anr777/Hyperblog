@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hola , me llamo sebastian
+=======
+hola , me llamo sebastian
+estoy en la cabecera en este momento
+>>>>>>> cabecera
